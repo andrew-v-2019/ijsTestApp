@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import IjsTestApp from './IjsTestApp.vue'
 
-createApp(App).mount('#app')
+createApp(IjsTestApp).mount('#ijsTestApp')
